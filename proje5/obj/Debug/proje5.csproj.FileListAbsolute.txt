@@ -1,0 +1,16 @@
+C:\Users\rexts\source\repos\görselprogramlama\proje5\bin\Debug\proje5.exe.config
+C:\Users\rexts\source\repos\görselprogramlama\proje5\bin\Debug\proje5.exe
+C:\Users\rexts\source\repos\görselprogramlama\proje5\bin\Debug\proje5.pdb
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.csprojAssemblyReference.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.anamenu.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.giris.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.Properties.Resources.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.exe
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.pdb
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.dosya.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.duzen.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.ekle.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.gorunum.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje5\obj\Debug\proje5.yardım.resources
