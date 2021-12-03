@@ -1,0 +1,10 @@
+C:\Users\rexts\source\repos\görselprogramlama\proje1\bin\Debug\proje1.exe.config
+C:\Users\rexts\source\repos\görselprogramlama\proje1\bin\Debug\proje1.exe
+C:\Users\rexts\source\repos\görselprogramlama\proje1\bin\Debug\proje1.pdb
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.csprojAssemblyReference.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.exe
+C:\Users\rexts\source\repos\görselprogramlama\proje1\obj\Debug\proje1.pdb
