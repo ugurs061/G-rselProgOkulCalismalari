@@ -1,0 +1,9 @@
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\bin\Debug\proje10.exe.config
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\bin\Debug\proje10.exe
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\bin\Debug\proje10.pdb
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\obj\Debug\proje11.Form1.resources
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\obj\Debug\proje10.Properties.Resources.resources
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\obj\Debug\proje11.csproj.GenerateResource.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\obj\Debug\proje11.csproj.CoreCompileInputs.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\obj\Debug\proje10.exe
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje11\obj\Debug\proje10.pdb
