@@ -1,0 +1,10 @@
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\bin\Debug\proje8.exe.config
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\bin\Debug\proje8.exe
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\bin\Debug\proje8.pdb
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.csprojAssemblyReference.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.Form1.resources
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.Properties.Resources.resources
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.csproj.GenerateResource.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.csproj.CoreCompileInputs.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.exe
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje8\obj\Debug\proje8.pdb
