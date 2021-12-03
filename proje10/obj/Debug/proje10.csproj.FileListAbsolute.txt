@@ -1,0 +1,20 @@
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\bin\Debug\proje10.exe.config
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\bin\Debug\proje10.exe
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\bin\Debug\proje10.pdb
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.csprojAssemblyReference.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.Form1.resources
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.Properties.Resources.resources
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.csproj.GenerateResource.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.csproj.CoreCompileInputs.cache
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.exe
+E:\TMYO\uzem\2021 BAHAR\görselprogramlama1\proje10\obj\Debug\proje10.pdb
+C:\Users\rexts\source\repos\görselprogramlama\proje10\bin\Debug\proje10.exe.config
+C:\Users\rexts\source\repos\görselprogramlama\proje10\bin\Debug\proje10.exe
+C:\Users\rexts\source\repos\görselprogramlama\proje10\bin\Debug\proje10.pdb
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.csprojAssemblyReference.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.Form1.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.Properties.Resources.resources
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.csproj.GenerateResource.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.csproj.CoreCompileInputs.cache
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.exe
+C:\Users\rexts\source\repos\görselprogramlama\proje10\obj\Debug\proje10.pdb
